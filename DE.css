@@ -1,0 +1,92 @@
+
+body{
+	background-image:url("DE Background.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-color: black; 
+	background-repeat: no-repeat;
+	width: 100%;
+}
+p{
+	font-family: sans-serif;
+	color: green;
+	word-wrap: break-word;
+	
+}
+
+h2, h4{
+	font-family: sans-serif;
+	color: green;
+	text-align:center;
+}
+#box{
+	float:right;
+	border: 2px solid green;
+	padding-right:50px;
+	
+
+}
+#pages{
+	width:auto;
+	height:auto;
+	background-color: gray;
+	margin: 6px 0;
+	color: green;
+	}
+.des-img{
+	float:right;
+	padding:10px;
+}
+.rotate90 {
+  -webkit-transform:rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+  padding:50px;
+
+}
+.top-para{
+	word-wrap:break-word;
+	float:right;
+	width:1250px;
+	
+}
+.top-pic{
+-webkit-transform:rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+  padding:20px;
+  height:175px;
+  width:215px
+	
+}
+#homelogo{
+	width:80%;
+	padding-left:150px;
+	padding-top:300px;
+}
+.column-left{
+	float:left;
+	width:47%;
+	height:250px;
+	width:300px;
+	padding:30px
+}
+.column-right{
+	float:right;
+	width:47%;
+	height:250px;
+	width:300px;
+	padding:30px
+}
+.filler{
+	padding:auto;
+	
+}
+
+#altlogo{
+	
+}
